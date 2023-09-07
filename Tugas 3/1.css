@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(167, 67, 167);
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 5px dotted #640863;
+    
+  }
+
+  h2 {
+    color: rgb(167, 67, 167);
+    font-size: 1.5em;
+    div {
+        width:2000px;
+        height: 500px;
+      }
+      .garis_tepi1 {
+        border: 2px solid red;
+      }
+}
+
+.job-title {
+    color: #b3aeae;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    padding: 15px 25px 15px 25px;
+    border: 4px solid purple;
+}
